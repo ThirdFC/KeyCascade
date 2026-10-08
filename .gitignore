@@ -1,0 +1,14 @@
+# Generated executables, packages, tests, render previews and local configuration
+/release/
+/artifacts/
+/preview*/
+/KeyCascade-Windows-x64/
+/*.zip
+*.exe
+*.ico
+*.pdb
+*.log
+settings*.json
+*.bak
+*.tmp
+.vs/
